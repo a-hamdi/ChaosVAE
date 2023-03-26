@@ -34,8 +34,7 @@ This project is licensed under the MIT License.
 
 ## This project is Incompleted:
 
-I'm still working on the project.
+I'm still working on the project and the rest of it is local and private.
 
-The todos are in the code and i'll update it from time to time.
 
 If you want to help send me a message!
