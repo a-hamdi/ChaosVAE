@@ -4,7 +4,7 @@ ChaosVAE is a deep learning model based on Variational Autoencoders (VAEs) that 
 # installation
 ## Clone the repository and navigate to the project directory:
 
-git clone https://github.com/username/ChaosVAE.git
+git clone https://github.com/a-hamdi/ChaosVAE
 
 cd ChaosVAE
 ## Create a new virtual environment and activate it:
